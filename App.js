@@ -3,9 +3,9 @@
 
 //Delaware Technical Community College 
 //ITN263-4C1 Mobile App Development (Spring 2020 S1)
-//Assignment 4: Sick Patient Questionare 
-//Assignment Page: https://mycourses.dtcc.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=67984&grpid=0&isprv=0&bp=0&ou=39945
-//Due Thursday, February 20th 2020. 11:59 PM EST (Eastern Standard Time)
+//Final Project
+//Assignment Page: https://mycourses.dtcc.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=67982&grpid=0&isprv=0&bp=0&ou=39945
+//Due Friday, April 24th 2020. 11:30 PM EST (Eastern Standard Time)
 //Samuel Warrington Kapp
 
 {/*Importing Components From React Native*/}
